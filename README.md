@@ -70,15 +70,6 @@ output/final_output.json
   ]
 }
 
-📹 Demo
-🖥️ Loom Demo: [Insert Your Loom Link Here]
-
-🙋 About Me
-I’m excited about machine learning, computer vision, and real-world AI applications.
-Thanks for the opportunity to contribute to Flickd’s future tech stack! 🌟
-
-
----
 
 ## 🚀 STEP 2: Push to GitHub
 
@@ -94,8 +85,19 @@ git commit -m "Initial commit - Flickd AI Hackathon"
 git branch -M main
 git remote add origin https://github.com/eshi-taa/flick-ai-hackathon.git
 git push -u origin main
-
 ```
+
+📹 Demo
+🖥️ Loom Demo: [Insert Your Loom Link Here]
+
+
+🙋 About Me
+
+I'm a 3rd-year Computer Science student at SASTRA University passionate about machine learning, computer vision, and NLP.
+This challenge was exciting and insightful — thank you Flickd team!
+
+🔗 LinkedIn
+📧 Email: your.email@example.com
 
 
 
